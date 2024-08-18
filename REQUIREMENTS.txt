@@ -1,1 +1,7 @@
-
+numpy
+pandas
+catboost
+scikit-learn
+matplotlib
+seaborn
+pickle-mixin
