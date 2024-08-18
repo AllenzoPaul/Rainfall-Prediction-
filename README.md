@@ -26,4 +26,9 @@ This project involves building a machine learning model to predict rainfall prob
    git clone https://github.com/AllenzoPaul/Rainfall-Prediction-.git
    cd Rainfall-Prediction-
 
+2. **Install the required dependencies**:
+
+   ```bash
+      pip install -r requirements.txt
+
 
