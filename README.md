@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves building a machine learning model to predict rainfall probability based on meteorological data. The model is developed using the CatBoost algorithm, which is well-suited for handling categorical data and provides robust performance on predictive tasks. The primary objective is to accurately forecast the likelihood of rainfall based on input features such as temperature, humidity, wind speed etc..
+This project involves building a machine learning model to predict rainfall probability based on meteorological data. The model is developed using the CatBoost algorithm, which is well-suited for handling categorical data and provides robust performance on predictive tasks. This project is reccommended as an intermediate machine learning and data science project.
 
 ## Features
 
@@ -29,6 +29,11 @@ This project involves building a machine learning model to predict rainfall prob
 2. **Install the required dependencies**:
 
    ```bash
-      pip install -r requirements.txt
+      pip install -r REQUIREMENTS.txt
 
 
+## Usage
+
+After cloning the repository you can load the trained model model_cb.pkl and use it to make rainfall predictions. 
+
+ 
